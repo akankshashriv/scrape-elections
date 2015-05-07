@@ -1,0 +1,123 @@
+
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fce4022ecf8>,This file must have not been created by the program.
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7fce4022e518>,This file must have not been created by the program.
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7fce4022ecf8>,This file must have not been created by the program.
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7fce4022e518>,This file must have not been created by the program.
+28,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f32506a25a8>,This file must have not been created by the program.
+28,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f32506a2098>,This file must have not been created by the program.
+28,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f32506a25a8>,This file must have not been created by the program.
+28,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f32506a2098>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f45f81eaa70>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f45f81ea9e0>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f45f81eaa70>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f45f81ea9e0>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f114c12ec68>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f114c12e518>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f114c12ec68>,This file must have not been created by the program.
+0,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f114c12e518>,This file must have not been created by the program.
+1,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f5ad376c098>,This file must have not been created by the program.
+1,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f5ad3721518>,This file must have not been created by the program.
+1,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f5ad376c098>,This file must have not been created by the program.
+1,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f5ad3721518>,This file must have not been created by the program.
+2,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fe84e70f098>,This file must have not been created by the program.
+2,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7fe84e70f128>,This file must have not been created by the program.
+2,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7fe84e70f098>,This file must have not been created by the program.
+2,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7fe84e70f128>,This file must have not been created by the program.
+3,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f69d6576050>,This file must have not been created by the program.
+3,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f69d6576a70>,This file must have not been created by the program.
+3,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f69d6576050>,This file must have not been created by the program.
+3,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f69d6576a70>,This file must have not been created by the program.
+3,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f69d6576050>,This file must have not been created by the program.
+4,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fb66bed7050>,This file must have not been created by the program.
+4,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7fb66bed7a70>,This file must have not been created by the program.
+4,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7fb66bed7050>,This file must have not been created by the program.
+4,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7fb66bed7a70>,This file must have not been created by the program.
+4,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7fb66bed7050>,This file must have not been created by the program.
+5,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f25bc649098>,This file must have not been created by the program.
+5,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f25bc649200>,This file must have not been created by the program.
+5,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f25bc649098>,This file must have not been created by the program.
+5,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f25bc649200>,This file must have not been created by the program.
+5,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f25bc649098>,This file must have not been created by the program.
+6,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fbf419860e0>,This file must have not been created by the program.
+6,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7fbf41986248>,This file must have not been created by the program.
+6,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7fbf419860e0>,This file must have not been created by the program.
+6,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7fbf41986248>,This file must have not been created by the program.
+6,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7fbf419860e0>,This file must have not been created by the program.
+7,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f578cbfd518>,This file must have not been created by the program.
+7,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f578cbfd3f8>,This file must have not been created by the program.
+7,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f578cbfd518>,This file must have not been created by the program.
+7,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f578cbfd3f8>,This file must have not been created by the program.
+7,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f578cbfd518>,This file must have not been created by the program.
+8,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f2994029440>,This file must have not been created by the program.
+8,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f2994029560>,This file must have not been created by the program.
+8,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f2994029440>,This file must have not been created by the program.
+9,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f9dfed27488>,This file must have not been created by the program.
+9,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f9dfed275a8>,This file must have not been created by the program.
+9,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f9dfed27488>,This file must have not been created by the program.
+10,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f194cfbc6c8>,This file must have not been created by the program.
+10,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f194cfbce18>,This file must have not been created by the program.
+10,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f194cfbc6c8>,This file must have not been created by the program.
+10,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f194cfbce18>,This file must have not been created by the program.
+10,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f194cfbc6c8>,This file must have not been created by the program.
+11,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fc13342e248>,This file must have not been created by the program.
+11,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7fc13342e0e0>,This file must have not been created by the program.
+11,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7fc13342e248>,This file must have not been created by the program.
+12,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f159aec7518>,This file must have not been created by the program.
+12,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f159aec7638>,This file must have not been created by the program.
+12,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f159aec7518>,This file must have not been created by the program.
+13,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f53b483b560>,This file must have not been created by the program.
+13,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f53b483b440>,This file must have not been created by the program.
+13,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f53b483b560>,This file must have not been created by the program.
+13,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f53b483b440>,This file must have not been created by the program.
+13,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f53b483b560>,This file must have not been created by the program.
+14,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f71f4c984d0>,This file must have not been created by the program.
+14,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f71f4c985f0>,This file must have not been created by the program.
+14,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f71f4c984d0>,This file must have not been created by the program.
+15,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fa834150248>,This file must have not been created by the program.
+15,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7fa8341500e0>,This file must have not been created by the program.
+15,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7fa834150248>,This file must have not been created by the program.
+16,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f7ca40db2d8>,This file must have not been created by the program.
+16,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f7ca40db1b8>,This file must have not been created by the program.
+16,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f7ca40db2d8>,This file must have not been created by the program.
+16,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f7ca40db1b8>,This file must have not been created by the program.
+16,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f7ca40db2d8>,This file must have not been created by the program.
+17,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f0136a6a0e0>,This file must have not been created by the program.
+17,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f0136a6a248>,This file must have not been created by the program.
+17,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f0136a6a0e0>,This file must have not been created by the program.
+17,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f0136a6a248>,This file must have not been created by the program.
+17,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f0136a6a0e0>,This file must have not been created by the program.
+18,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f2ce003df80>,This file must have not been created by the program.
+18,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f2cdb8255f0>,This file must have not been created by the program.
+18,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f2ce003df80>,This file must have not been created by the program.
+18,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f2cdb8255f0>,This file must have not been created by the program.
+19,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f62d275a200>,This file must have not been created by the program.
+19,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f62d275a1b8>,This file must have not been created by the program.
+19,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f62d275a200>,This file must have not been created by the program.
+19,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f62d275a1b8>,This file must have not been created by the program.
+19,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f62d275a200>,This file must have not been created by the program.
+20,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f921eae90e0>,This file must have not been created by the program.
+20,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f921eae9248>,This file must have not been created by the program.
+21,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f0a82c26518>,This file must have not been created by the program.
+21,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f0a82c26638>,This file must have not been created by the program.
+21,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f0a82c26518>,This file must have not been created by the program.
+21,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f0a82c26638>,This file must have not been created by the program.
+22,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f4c44fa35a8>,This file must have not been created by the program.
+22,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f4c4506ab90>,This file must have not been created by the program.
+22,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f4c44fa35a8>,This file must have not been created by the program.
+22,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f4c4506ab90>,This file must have not been created by the program.
+23,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fd394116320>,This file must have not been created by the program.
+23,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7fd3947ef488>,This file must have not been created by the program.
+23,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7fd394116320>,This file must have not been created by the program.
+23,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7fd3947ef488>,This file must have not been created by the program.
+24,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7fd5542d2320>,This file must have not been created by the program.
+24,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7fd554bc6488>,This file must have not been created by the program.
+24,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7fd5542d2320>,This file must have not been created by the program.
+24,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7fd554bc6488>,This file must have not been created by the program.
+25,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f43bacb6440>,This file must have not been created by the program.
+25,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f43bacb63b0>,This file must have not been created by the program.
+25,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f43bacb6440>,This file must have not been created by the program.
+25,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'ErrorLog.csv',<traceback object at 0x7f43bacb63b0>,This file must have not been created by the program.
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory,<traceback object at 0x7f2eb790a7e8>,This file must have not been created by the program.
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'errorcount.txt',<traceback object at 0x7f2eb790a830>,This file must have not been created by the program.
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'insertcount.txt',<traceback object at 0x7f2eb790a7e8>,This file must have not been created by the program.
+26,<type 'exceptions.OSError'>,[Errno 2] No such file or directory: 'HTMLParseErrorLog.csv',<traceback object at 0x7f2eb790a830>,This file must have not been created by the program.
